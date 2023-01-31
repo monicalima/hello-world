@@ -6,7 +6,9 @@ Quick tutorial teaches GitHub essentials like repositories, branches, commits, a
 ### H3
 
 **bold text**
+
 *italicized text*
+
 > blockquote
 
 1. First item
@@ -22,4 +24,5 @@ Quick tutorial teaches GitHub essentials like repositories, branches, commits, a
 ---
 
 [title](https://www.example.com)
+
 ![alt text](image.jpg)
