@@ -68,7 +68,7 @@ That is so funny! :joy:
 
 Gone camping! :tent: Be back soon.
 
-:apple:  :cake:  :ballon:  :key:
+:apple:  :cake:  :balloon:  :key:
 
 I need to highlight these ==very important words==.
 
