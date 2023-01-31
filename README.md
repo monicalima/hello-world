@@ -68,10 +68,14 @@ That is so funny! :joy:
 
 I need to highlight these ==very important words==.
 
+I need to highlight these <mark>very important words</mark>.
+
 H~2~O
-H~2O
+
 H<sub>2</sub>O
   
 X^2^
+
+X<sup>2</sup>
   
   
