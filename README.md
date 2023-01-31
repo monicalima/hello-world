@@ -68,6 +68,8 @@ That is so funny! :joy:
 
 Gone camping! :tent: Be back soon.
 
+:apple:  :cake:  :ballon:  :key:
+
 I need to highlight these ==very important words==.
 
 I need to highlight these <mark>very important words</mark>.
