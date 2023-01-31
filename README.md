@@ -23,6 +23,6 @@ Quick tutorial teaches GitHub essentials like repositories, branches, commits, a
 
 ---
 
-[title](https://www.example.com)
+[title as a link](https://www.example.com)
 
-![alt text](image.jpg)
+![alt text for img](image.jpg)
